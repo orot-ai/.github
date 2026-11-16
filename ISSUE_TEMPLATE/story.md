@@ -2,7 +2,7 @@
 name: Story
 about: 사용자 입장의 새 기능이나 흐름
 title: "[Story] "
-labels: story
+labels: type:story
 ---
 
 ## 요청 원문
