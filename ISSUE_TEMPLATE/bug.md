@@ -2,7 +2,7 @@
 name: Bug
 about: 고장 난 것 신고
 title: "[Bug] "
-labels: bug
+labels: type:bug
 ---
 
 ## 요청 원문

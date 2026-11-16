@@ -2,7 +2,7 @@
 name: Task
 about: 작은 단위의 일 하나
 title: "[Task] "
-labels: task
+labels: type:task
 ---
 
 ## 요청 원문
