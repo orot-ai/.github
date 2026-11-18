@@ -1,6 +1,0 @@
-{
-  "name": "PR 본문 점검",
-  "description": "PR 본문에 Closes #번호 또는 Refs #번호가 있는지 확인한다(orot-ai 공통).",
-  "iconName": "octicon check",
-  "categories": ["Automation"]
-}
